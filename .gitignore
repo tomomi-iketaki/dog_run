@@ -1,0 +1,2 @@
+# node_modulesディレクトリはgitでは無視する。
+node_modules
